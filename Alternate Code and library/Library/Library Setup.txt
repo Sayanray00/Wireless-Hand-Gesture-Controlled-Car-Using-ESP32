@@ -1,0 +1,5 @@
+Library Setup:
+Step 1: "C:\Users\{user_name}\Documents\Arduino\libraries"
+Step 2: Paste the "I2Cdev" and "MPU6050" folders inside the above directory
+
+Note: Don't need to import that library into the Arduino IDE and ESP32 WiFi module
